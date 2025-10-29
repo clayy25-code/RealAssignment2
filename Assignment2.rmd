@@ -3,7 +3,7 @@ Assignment2Rmd
 title: "Assignment2"
 author: "Clay Yokom"
 date: "2025-10-29"
-output: html_document ##CHANGE TO WORD FOR SUBMIT
+output: html_document ##CHANGE TO WORD FOR SUBMIT ##DID I GET IT?
 ---
 
 ```{r setup, include=FALSE}
