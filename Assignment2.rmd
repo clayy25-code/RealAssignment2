@@ -1,9 +1,9 @@
-Assignment2Rmd
+Assignment2
 ---
 title: "Assignment2"
 author: "Clay Yokom"
 date: "2025-10-29"
-output: html_document ##CHANGE TO WORD FOR SUBMIT ##DID I GET IT?
+output: html_document ##CHANGE TO WORD FOR SUBMIT
 ---
 
 ```{r setup, include=FALSE}
